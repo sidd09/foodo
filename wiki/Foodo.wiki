@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+This is a restaurant tracker on your Android phone.
 
 
 = Details =
