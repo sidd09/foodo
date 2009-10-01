@@ -1,6 +1,0 @@
-#labels Diagram,UML,class
-#UML Class Diagram
-
-= Class diagram for sprint 1 =
-
-http://img10.imageshack.us/img10/7867/classdiagrami.jpg
