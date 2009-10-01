@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" measuredW="443" measuredH="603" mockupW="282" mockupH="570">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ButtonBar" x="203" y="477" w="-1" h="-1" measuredW="176" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter%2C%20List%2C%20More</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CallOut" x="219" y="234" w="-1" h="-1" measuredW="34" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::CallOut" x="303" y="308" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="290" y="411" w="-1" h="-1" measuredW="20" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="271" y="410" w="-1" h="-1" measuredW="19" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Title" x="203" y="23" w="-1" h="-1" measuredW="182" measuredH="56" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Map%20View</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::iPhone" x="151" y="83" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Map" x="181" y="184" w="220" h="322" measuredW="252" measuredH="222" zOrder="2" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
