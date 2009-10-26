@@ -1,5 +1,11 @@
 <?php
 	require('../conf/init.php');
 	
-	$controller = new ApiController();
-	$controller->showAll();
+	if ($_GET['createdb']) {
+		$rdb = new RestaurantDb();
+		$rdb->createTable();
+	}
+	else {
+		$controller = new ApiController();
+		$controller->showAll();
+	}
